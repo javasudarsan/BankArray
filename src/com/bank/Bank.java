@@ -24,7 +24,7 @@ public class Bank {
 		System.out.println("3.Deposite Amount");
 		System.out.println("4.Withdraw amount");
 		System.out.println("5.Search Account holder details");
-		System.out.println("6.Retrive all the customer");
+		System.out.println("6.Retrive all the customer details");
 		System.out.println("7.Exit");
 		int key = sc.nextInt();
 		boolean flag = true;
@@ -37,7 +37,7 @@ public class Bank {
 				System.out.println("3.Deposite Amount");
 				System.out.println("4.Withdraw amount");
 				System.out.println("5.Search Account holder details");
-				System.out.println("6.Retrive all the customer");
+				System.out.println("6.Retrive all the customer details");
 				System.out.println("7.Exit");
 				key = sc.nextInt();
 			}
